@@ -1,0 +1,21 @@
+Wii U-OS is licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You may copy, redistribute, remix, transform and build upon this material for
+non-commercial purposes, provided that you give appropriate credit, indicate if
+changes were made, and distribute your contributions under the same license.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This repository does not contain NumWorks Epsilon. The patch
+(patches/wiiu-os-epsilon.patch) applies to NumWorks' own source code, which
+each user downloads from https://github.com/numworks/epsilon. Epsilon is
+copyright NumWorks, all rights reserved, and is not covered by this license.
+NumWorks is a registered trademark of NumWorks.
+
+Wii U-OS is an unofficial fan project, not affiliated with or endorsed by
+Nintendo or NumWorks. Wii U, Mii and Miiverse are trademarks of Nintendo. The
+icons, the Miis and the look of Wii U-OS are original drawings made for this
+project (apps/home/wiiu/gen_icons.py and apps/home/wiiu/mii.cpp in the
+patch); no picture, sound or code from Nintendo is used.
